@@ -1,0 +1,68 @@
+.container{
+    margin-top : 6em;
+    text-align: center;
+  }
+  img{
+    margin : 5px;
+    width : 20px;
+  }
+  #avatar{
+    width : 250px;
+    border-radius : 50%;
+    border : 2px solid #5c744c;
+  }
+  #name {
+    font-size : 30px;
+    font-weight : bold;
+    color : #5c744c;
+    display : none;
+    
+  }
+  #username {
+    font-size : 25px;
+    font-weight : bold;
+    color: white;
+  }
+  body {
+   background-color: black;
+   font-family: lucida sans;
+  }
+  input {
+    padding : 5px 10px;
+  }
+  
+  button {
+     padding : 5px 10px;
+    border : none;
+    background :#5c744c;
+    color : white;
+    border : solid white 2px;
+  }
+  button:hover {
+    background :#71905b;
+    color : white;
+  }
+  
+  #location {
+    font-size : 25px;
+    padding : 5px 5px;
+    font-weight: bold;
+    color :#7FA266; 
+  }
+  #bio {
+    padding : 5px 5px;
+    font-weight : bold;
+    color : #5c744c;
+    font-size: 20px;
+    
+  }
+  
+  #change {
+    color : white;
+    text-decoration: underline;
+  }
+
+  #loader {
+color: #5c744c;
+  }
+  
