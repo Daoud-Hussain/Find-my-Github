@@ -1,6 +1,6 @@
 # Find-my-Github
 
-<p><b>Find my Github</b> is a website that inputs your Github <b>UserName</b> and search data  (name, location and bio) of given name using <b>Github API</b>. </p>
+**Find my Github** is a website that inputs your Github `Username` and search data  (`name`, `location` and `bio`) of given name using **Github API**.
 
 <img src="readme-img.JPG" align="right"> 
 
